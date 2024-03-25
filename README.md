@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **SecureFam**
 
-- 🌱 I’m currently learning **Algorithims,Android Development,DBMS**
+- 🌱 I’m currently learning **Algorithims,AI&ML,DBMS**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **prince.kumar2021a@vitstudent.ac.in**
+- 📫 How to reach me **abhishek.kumar2021c@vitstudent.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
