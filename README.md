@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
-<h3 align="center">AI/ML Enthusiast | Data Science | Web Dev | Innovating Through Tech</h3>
+<h3 align="center">AI/ML Enthusiast | Data Science | Innovating Through Tech</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47i8s9qleucyq92tkqqoht9wptlvs7xuv3kri2kt72&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aveseq&label=Profile%20views&color=0e75b6&style=flat" alt="aveseq" /> </p>
 
-- 🔭 I’m currently working on **QuestForge (LLM-powered Document Retrieval & QnA System)**  
+- 🔭 I’m currently working on **Stock Price Prediction & Algo Trading**  
 - 🌱 Exploring **MLOps, LangChain, LLM Fine-tuning, and Cloud Computing**  
-- 👯 Open to collaborating on **AI/ML, NLP, and Full-Stack Web Projects**  
-- 📝 Published Research: *Enhancing Dietary Management and Nutritional Analysis through Deep Learning*  
+- 👯 Open to collaborating on **AI/ML, NLP, and CV Projects**  
+- 📝 Published Research: *Skin Cancer prediction through Deep Learning*  
 - 💬 Ask me about **Machine Learning, Data Science, SQL, Backend Dev**  
-- 📫 Reach me at **abhishek.kumar2021c@vitstudent.ac.in**  
-- ⚡ Fun Fact: I play **football**, hit the **gym daily**, and enjoy **solving SQL challenges**  
+- 📫 Reach me at **aveseq.pvt@gmail.com**  
+- ⚡ Fun Fact: I play **football**, hit the **gym daily**, and enjoy **solving ML challenges**  
 
 ---
 
