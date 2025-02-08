@@ -1,62 +1,43 @@
-import { useState } from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Moon, Sun, Github, Linkedin, Mail } from "lucide-react";
+<h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
+<h3 align="center">AI/ML Enthusiast | Data Science | Web Dev | Innovating Through Tech</h3>
 
-export default function Portfolio() {
-  const [darkMode, setDarkMode] = useState(false);
-  
-  return (
-    <div className={`${darkMode ? "bg-gray-900 text-white" : "bg-white text-black"} min-h-screen p-6 transition-all`}> 
-      {/* Navbar */}
-      <nav className="flex justify-between items-center py-4">
-        <h1 className="text-2xl font-bold">Abhisek Kumar</h1>
-        <Button onClick={() => setDarkMode(!darkMode)}>
-          {darkMode ? <Sun size={20} /> : <Moon size={20} />}
-        </Button>
-      </nav>
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47i8s9qleucyq92tkqqoht9wptlvs7xuv3kri2kt72&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-      {/* Hero Section */}
-      <div className="text-center my-10">
-        <h2 className="text-4xl font-bold">AI/ML Enthusiast & Full Stack Developer</h2>
-        <p className="mt-4 text-lg">Building innovative solutions through Data Science, AI, and Web Technologies</p>
-      </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aveseq&label=Profile%20views&color=0e75b6&style=flat" alt="aveseq" /> </p>
 
-      {/* Tech Stack */}
-      <div className="flex flex-wrap justify-center gap-4 my-8">
-        {['Python', 'TensorFlow', 'LangChain', 'Docker', 'SQL', 'React', 'Node.js'].map((tech) => (
-          <span key={tech} className="px-4 py-2 bg-blue-500 text-white rounded-xl">{tech}</span>
-        ))}
-      </div>
+- 🔭 I’m currently working on **QuestForge (LLM-powered Document Retrieval & QnA System)**  
+- 🌱 Exploring **MLOps, LangChain, LLM Fine-tuning, and Cloud Computing**  
+- 👯 Open to collaborating on **AI/ML, NLP, and Full-Stack Web Projects**  
+- 📝 Published Research: *Enhancing Dietary Management and Nutritional Analysis through Deep Learning*  
+- 💬 Ask me about **Machine Learning, Data Science, SQL, Backend Dev**  
+- 📫 Reach me at **abhishek.kumar2021c@vitstudent.ac.in**  
+- ⚡ Fun Fact: I play **football**, hit the **gym daily**, and enjoy **solving SQL challenges**  
 
-      {/* Projects */}
-      <div className="my-10">
-        <h3 className="text-3xl font-semibold mb-6">Projects</h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {[
-            { name: "QuestForge", desc: "LLM-powered document retrieval system", link: "#" },
-            { name: "Skin Cancer Detection", desc: "Hybrid CNN model using InceptionV3 & DenseNet121", link: "#" }
-          ].map((project) => (
-            <Card key={project.name} className="p-4 hover:shadow-lg transition">
-              <CardContent>
-                <h4 className="text-xl font-semibold">{project.name}</h4>
-                <p className="mt-2 text-gray-400">{project.desc}</p>
-                <a href={project.link} className="mt-3 inline-block text-blue-400">View Project →</a>
-              </CardContent>
-            </Card>
-          ))}
-        </div>
-      </div>
+---
 
-      {/* Contact */}
-      <div className="my-10 text-center">
-        <h3 className="text-2xl font-semibold">Let's Connect!</h3>
-        <div className="flex justify-center gap-6 mt-4">
-          <a href="https://github.com/aveseq" target="_blank" rel="noopener noreferrer"><Github size={30} /></a>
-          <a href="https://linkedin.com/in/aveseq" target="_blank" rel="noopener noreferrer"><Linkedin size={30} /></a>
-          <a href="mailto:abhishek.kumar2021c@vitstudent.ac.in"><Mail size={30} /></a>
-        </div>
-      </div>
-    </div>
-  );
-}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aveseq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhisekh Kumaar" height="30" width="40" /></a>
+<a href="https://leetcode.com/aveseq/" target="blank"><img align="center" src="https://github.com/aveseq/GitHub-Profile-Readme/blob/main/leetcode.png" alt="Abhisekh" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aveseq&show_icons=true&locale=en&layout=compact" alt="aveseq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aveseq&" alt="Abhisekh" /></p>
