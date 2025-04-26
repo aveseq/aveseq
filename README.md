@@ -36,7 +36,6 @@
 </p>
 
 ---
----
 
 <h3 align="left">📄 See My Resume:</h3>
 <p align="left">
