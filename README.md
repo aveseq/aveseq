@@ -36,7 +36,15 @@
 </p>
 
 ---
+---
 
+<h3 align="left">📄 See My Resume:</h3>
+<p align="left">
+  <a href="https://drive.google.com/file/d/1MuSRVgaEz4U5CMXklngJC0ZXX0E819zO/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge" alt="Resume" />
+  </a>
+</p>
+---
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aveseq&show_icons=true&locale=en&layout=compact" alt="aveseq" /></p>
 
